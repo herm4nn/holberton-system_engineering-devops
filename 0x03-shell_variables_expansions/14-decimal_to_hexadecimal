@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%o\x" 
+export DECIMAL=16 | printf "%x\n" $DECIMAL 
