@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ls = rm *
+export NUM=50.2356 | printf "%0.2f\n" $NUM
